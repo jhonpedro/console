@@ -48,7 +48,7 @@ serverless --console
 ```
 
 This will begin an interactive onboarding experience, which creates your first
-Serverless Framwork project.
+Serverless Framework project.
 
 ```text
 Creating a new serverless project
